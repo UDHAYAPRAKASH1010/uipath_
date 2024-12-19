@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome UiPath automation platform drive AI transformation with agentic automation  Ui",
+  "Type": "App",
+  "Id": "yFFYo2biUkam8EtxhPa8YQ",
+  "Reference": "5XnxGfxM90O1lazEqO9lCg/yFFYo2biUkam8EtxhPa8YQ",
+  "Created": "2024-12-18T06:46:39.6484368Z",
+  "Updated": "2024-12-18T06:46:39.6484368Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

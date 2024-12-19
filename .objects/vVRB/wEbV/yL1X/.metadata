@@ -1,0 +1,13 @@
+﻿{
+  "Name": "boys.png(1)",
+  "Type": "Screen",
+  "Id": "yL1X5orJj06OkCVXSK12Xg",
+  "Reference": "5XnxGfxM90O1lazEqO9lCg/yL1X5orJj06OkCVXSK12Xg",
+  "ParentRef": "5XnxGfxM90O1lazEqO9lCg/wEbVCRnZl0Gc5EggjvdagA",
+  "Created": "2024-12-18T07:59:43.7650187Z",
+  "Updated": "2024-12-18T07:59:43.7650187Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

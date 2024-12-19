@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ScnhLVT_pUyLJKOq2iLYWw" Reference="5XnxGfxM90O1lazEqO9lCg/gS4iU5GNTkyUDFdBoJewFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath.com" CVScreenId="1909ba91-37da-40be-94c6-5998d07caaa1" CvTextArea="224, 594, 1465, 120" CvType="AnyWordGroup" DesignTimeRectangle="457, 503, 884, 76" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='' /&gt;" Guid="c43099ed-9aae-41f5-8ed3-87fc9b2378aa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath automation platform: drive AI transformation with agentic automation | UiPath' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="64c0215f-ee78-48f7-a289-5aeea76e4978" CvTextArea="494, 635, 148, 23" CvTextArgument="Update Contact" CvType="Text" DesignTimeRectangle="457, 616, 154, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H2' class='title sectiontitle' aaname='Description' check:innerText='Description' /&gt;" Guid="9dcd539a-d9cf-4318-953d-20560308e072" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c6d5ee1f000649a1e7f581f6ba93815d.png" xmlns="">0aknCgHtQJkqXFWyveKy0ZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

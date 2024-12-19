@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SabOaESqFEu9F9na7CnO_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath.com" CVScreenId="22e73d29-c1b5-4f51-9cb4-bedf5d2cb713" CvTextArea="641, 724, 634, 27" CvType="AnyWordGroup" DesignTimeRectangle="644, 717, 629, 60" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='gatsby-focus-wrapper' tag='P' class='' aaname='The future of automation is  and .' /&gt;" Guid="c048c7b1-0f4c-47ab-843a-346a9da76737" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath automation platform: drive AI transformation with agentic automation | UiPath' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b179f5ac166d9c2d12debb3aaa0da8cd.png" xmlns="">0M4tIKQTTiEmkyR1HDVAj1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

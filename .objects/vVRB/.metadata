@@ -1,0 +1,12 @@
+﻿{
+  "Name": "boys.png",
+  "Type": "App",
+  "Id": "vVRBemr9xkuyLWTgo4-Bwg",
+  "Reference": "5XnxGfxM90O1lazEqO9lCg/vVRBemr9xkuyLWTgo4-Bwg",
+  "Created": "2024-12-18T06:58:09.5451328Z",
+  "Updated": "2024-12-18T06:58:09.5451328Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

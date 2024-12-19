@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rVIPlHTRmke0cr5ULlp9PA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="64609a1b-f985-4a3d-aea5-9515b49f6d59" CvTextArea="106, 305, 112, 10" CvType="AnyWordGroup" DesignTimeRectangle="106, 305, 112, 10" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="7138c875-45dd-45ff-8815-5fc42f9329ce" ScopeSelectorArgument="&lt;wnd app='photos.exe' appid='Microsoft.Windows.Photos_8wekyb3d8bbwe!App' title='boys.png' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="79ef6b98626902c281675bf6d121952d.png" xmlns="">0-SLCpQwrY0-TLFUAdr-eoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

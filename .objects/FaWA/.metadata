@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Calculator",
+  "Type": "App",
+  "Id": "FaWAYJFXGkmQAh0YYXHsfA",
+  "Reference": "5XnxGfxM90O1lazEqO9lCg/FaWAYJFXGkmQAh0YYXHsfA",
+  "Created": "2024-12-18T06:21:47.6525832Z",
+  "Updated": "2024-12-18T06:21:47.6525832Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

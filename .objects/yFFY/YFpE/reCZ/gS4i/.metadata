@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Agentic. Robotic. Fanta…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "gS4iU5GNTkyUDFdBoJewFQ",
+  "Reference": "5XnxGfxM90O1lazEqO9lCg/gS4iU5GNTkyUDFdBoJewFQ",
+  "ParentRef": "5XnxGfxM90O1lazEqO9lCg/reCZ5CJxF0uHBGRI1Rvp8w",
+  "Created": "2024-12-18T06:46:54.7354506Z",
+  "Updated": "2024-12-18T06:46:54.7354506Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

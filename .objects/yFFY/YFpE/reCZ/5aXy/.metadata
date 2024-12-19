@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The future of automatio…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5aXyZlFN_UGQHDJ8BIefPw",
+  "Reference": "5XnxGfxM90O1lazEqO9lCg/5aXyZlFN_UGQHDJ8BIefPw",
+  "ParentRef": "5XnxGfxM90O1lazEqO9lCg/reCZ5CJxF0uHBGRI1Rvp8w",
+  "Created": "2024-12-18T06:52:40.0949979Z",
+  "Updated": "2024-12-18T06:52:40.0949979Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
